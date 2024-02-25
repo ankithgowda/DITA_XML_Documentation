@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_sum_up_numbers">
+    <title>How To Sum up Numbers</title>
+    <shortdesc>Here you will find instruction about using the addition feature of JPS Calculator
+        app</shortdesc>
+    <taskbody>
+        <context>
+            <p>To successfully sum up numbers, you must know what is addition.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Enter the first number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the plus (+) button. </cmd>
+            </step>
+            <step>
+                <cmd>Enter the second number. </cmd>
+            </step>
+            <step>
+                <cmd>Choose the equal (r) button. </cmd>
+            </step>
+        </steps>
+        <result id="result_tjg_skw_n1c"><p>The result from the addition is displayed. </p>You want
+            to subtract 3 and 2. The equation will look like: 3+2=5. You enter 3. Press minus. Enter
+            2. Press equals. The result 5 appears on the screen. </result>
+    </taskbody>
+</task>
